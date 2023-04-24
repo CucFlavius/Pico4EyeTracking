@@ -1,0 +1,12 @@
+# 
+# Wavefront material file
+# Created in RealityCapture
+# Engine version v1.0.3.4987
+# 
+
+newmtl Reality_Capture_-_Lens_Assembly_low_Material
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
